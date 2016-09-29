@@ -8,7 +8,6 @@ class Example(QWidget):
         super().__init__()
 
         self.initUI()
-
     def initUI(self):
 
         self.setGeometry(300,300,300,220)
